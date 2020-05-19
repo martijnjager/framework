@@ -1,0 +1,8 @@
+{
+  "name": "Router",
+  "version": "1.0.0",
+  "dependencies": {
+    "Loader": "1.0.0",
+    "Request": "1.0.0"
+  }
+}
